@@ -1,0 +1,7 @@
+C:\Users\dota_\Desktop\C# konsol\Tas_kagıt\Tas_kagıt\obj\Debug\Tas_kagıt.csprojAssemblyReference.cache
+C:\Users\dota_\Desktop\C# konsol\Tas_kagıt\Tas_kagıt\obj\Debug\Tas_kagıt.csproj.CoreCompileInputs.cache
+C:\Users\dota_\Desktop\C# konsol\Tas_kagıt\Tas_kagıt\bin\Debug\Tas_kagıt.exe.config
+C:\Users\dota_\Desktop\C# konsol\Tas_kagıt\Tas_kagıt\bin\Debug\Tas_kagıt.exe
+C:\Users\dota_\Desktop\C# konsol\Tas_kagıt\Tas_kagıt\bin\Debug\Tas_kagıt.pdb
+C:\Users\dota_\Desktop\C# konsol\Tas_kagıt\Tas_kagıt\obj\Debug\Tas_kagıt.exe
+C:\Users\dota_\Desktop\C# konsol\Tas_kagıt\Tas_kagıt\obj\Debug\Tas_kagıt.pdb
